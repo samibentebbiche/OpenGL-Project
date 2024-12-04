@@ -1,2 +1,2 @@
 # OpenGL-Project
-a simple game base on OpenGL
+a simple game based on OpenGL
